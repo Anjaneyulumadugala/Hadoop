@@ -1,0 +1,9 @@
+* Implemented and maintained the monitoring and alerting of production and corporate servers.such as EC2 and storage such as S3 buckets using AWS Cloud Watch. 
+* Configured AWS Identity and Access Management (IAM) Groups and Users for improved login authentication.
+* Migrated/Upgraded severs RHEL 6 TO RHEL 7 using KICKSTART and some shell scripts.
+* Providing day to day support to RHEL and AIX servers through various ticketing tools and monitoring tools like service now.
+* Very good knowledge of many CLI commands.
+* Scripting of administration tasks using Command Line (CLI), Powershell, Shell Scripting, Ruby etc.
+* Developed procedures to unify,streamline and automate application development and deployment procedures with CLI and Linux container technology using Docker(poc).
+
+
